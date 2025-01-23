@@ -1,4 +1,4 @@
 baseURL = 'https://stasyanko.github.io/blog/'
 languageCode = 'en-us'
-title = "Stas Yankovskiy's blog on OOP and LLMs"
+title = "Stas Yankovskiy's blog on OOP and NLP"
 theme = 'beautifulhugo'
