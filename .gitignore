@@ -5,7 +5,7 @@
 /assets/jsconfig.json
 hugo_stats.json
 
-./.idea
+/.idea
 
 # Executable may be added to repository
 hugo.exe
