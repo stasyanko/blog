@@ -4,8 +4,6 @@ draft = false
 title = "MONNBLANC principles - the foundantion of OOP"
 +++
 
-# MONNBLANC principles for OOP
-
 ## Problems of modern OOP
 
 We have SOLID principles, design patterns, encapsulation, inheritance, polymorphism, abstraction in modern OOP - which is great.
